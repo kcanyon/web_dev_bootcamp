@@ -1,0 +1,33 @@
+#container {
+    background-color: white;
+    width: 960px;
+}
+
+.search {
+    border: 2px solid rgb(11, 162, 147);
+    padding: 5px 30px;
+    border-radius: 25%;
+    background-color: rgb(240, 237, 237);
+    color: rgba(11, 162, 147);
+    margin: 5px;
+}
+
+.plus {
+    border: 1px solid rgba(56, 255, 192, 0.766);
+    border-radius: 50%;
+    background-color: rgba(56, 255, 192, 0.766);
+    color: white;
+    margin: 5px
+}
+
+.createaccount {
+    border: 2px solid black;
+    background-color: blue;
+    color: white;
+    font-size: smaller;
+    margin: 5px;
+}
+
+
+
+
